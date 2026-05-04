@@ -1,1 +1,1 @@
-Welcome to the training project.
+Welcome to the training project
